@@ -30,7 +30,7 @@
 - AI-powered instruments in healthcare: Modern medical instruments at the edge are becoming AI-enabled with devices that use ultra-low-latency streaming of surgical video to allow for minimally invasive surgeries and insights on demand.
 - Smart virtual assistants in retail: Retailers are looking to improve the digital customer experience by introducing voice ordering to replace text-based searches with voice commands. With voice ordering, shoppers can easily search for items, ask for product information and place online orders using smart speakers or other intelligent mobile devices.
 
-**Industrila PC**
+**Industrial PC**
 - An Industrial PC is a robust computer designed to be used in an industrial environment, often involved in the manufacturing of goods.
 
 **Characteristic Of IPC**
