@@ -146,9 +146,13 @@
 
 ![image](https://user-images.githubusercontent.com/80021420/163461714-9a3c61df-0833-4ede-8c46-01a00f5e6990.png)
 
-5. Sensor
+5. Sensor 
 
 ![image](https://user-images.githubusercontent.com/80021420/163461787-ff02caf2-c64d-447b-86a5-8c54b52df9da.png)
 
-
 **KILOBOT**
+
+1. OHC
+- Control Board
+- Infrared Led
+![image](https://user-images.githubusercontent.com/80021420/163462533-43bade9a-d6a9-4899-a724-9d3d11ad3a54.png)
